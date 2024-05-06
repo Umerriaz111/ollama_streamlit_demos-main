@@ -18,7 +18,7 @@ The app has a page for running chat-based models and also one for nultimodal mod
 Before running the app, ensure you have Python installed on your machine. Then, clone this repository and install the required packages using pip:
 
 ```bash
-git clone
+git clone https://github.com/Umerriaz111/ollama_streamlit_demos-main.git
 ```
 
 ```bash
